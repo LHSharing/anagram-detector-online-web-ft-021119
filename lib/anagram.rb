@@ -4,8 +4,8 @@ class NewClass
 
 attr_accessor :name
 
-def self.initialize(name)
-  @name
+def initialize(name)
+  self.name = name
 end
 
 
