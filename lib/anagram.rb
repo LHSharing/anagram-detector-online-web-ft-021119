@@ -2,14 +2,17 @@
 
 class Anagram
 
-attr_accessor :name
+attr_accessor :word
 
-def initialize(name)
-  self.name = name
+def initialize(word)
+  self.word = word
 end
-
+array = []
 def self.match
-
+if word == [regex]
+  array << word
+else
+  array
 #[] << new_match
 #no matches = []
 end
