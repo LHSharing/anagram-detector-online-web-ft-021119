@@ -13,7 +13,8 @@ def self.match
 #[] << new_match
 #no matches = []
 end
-
+#In other words, given: 
+#"listen" and %w(enlists google inlets banana) the program should return ["inlets"].
 
 
 
