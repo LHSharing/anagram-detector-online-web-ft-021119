@@ -1,6 +1,6 @@
 # Your code goes here!
 
-class NewClass
+class Anagram
 
 attr_accessor :name
 
