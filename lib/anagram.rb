@@ -10,6 +10,8 @@ end
 
 def self.match
 
+#[] << new_match
+#no matches = []
 end
 
 
