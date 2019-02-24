@@ -8,7 +8,7 @@ def initialize(word)
   self.word = word
 end
 array = []
-def self.match
+def self.match(word)
 if word == [regex]
   array << word
 else
