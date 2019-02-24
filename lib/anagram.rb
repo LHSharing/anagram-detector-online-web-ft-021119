@@ -9,9 +9,9 @@ def initialize(word)
 end
 array = []
 def self.match(word)
-if word == [regex]
+#if word == [regex]
   array << word
-else
+#else
   array
 #[] << new_match
 #no matches = []
